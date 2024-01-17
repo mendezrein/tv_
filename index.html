@@ -3,14 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Autoplay and Loop All MP4 Videos</title>
+  <title>Autoplay and Loop All Media Files</title>
   <style>
     body {
       margin: 0;
       overflow: hidden;
     }
 
-    video {
+    img, video {
       width: 100%;
       height: auto;
     }
@@ -20,52 +20,42 @@
 
 <script>
   window.onload = function() {
-    // List of MP4 files
-    const mp4Files = [
-      '1.mp4',
-      '2.mp4',
-      // Add more video file names as needed
+    // List of media files with type and duration
+    const mediaFiles = [
+      { type: 'video', src: '1.mp4' },
+      { type: 'video', src: '2.mp4' },
+      { type: 'image', src: '1.png', duration: 1000 },
+      // Add more media files with type and duration as needed
     ];
 
     let currentIndex = 0;
 
-    const videoElement = document.createElement('video');
-    videoElement.autoplay = true;
-    videoElement.muted = true; // Autoplay muted
+    const mediaElement = document.createElement('div');
+    document.body.appendChild(mediaElement);
 
-    function playNextVideo() {
-      if (currentIndex < mp4Files.length) {
-        videoElement.src = mp4Files[currentIndex];
+    function playNextMedia() {
+      if (currentIndex < mediaFiles.length) {
+        const currentMedia = mediaFiles[currentIndex];
+
+        if (currentMedia.type === 'video') {
+          mediaElement.innerHTML = `<video autoplay muted src="${currentMedia.src}"></video>`;
+          const videoElement = mediaElement.querySelector('video');
+          videoElement.addEventListener('ended', playNextMedia);
+        } else if (currentMedia.type === 'image') {
+          mediaElement.innerHTML = `<img src="${currentMedia.src}" alt="Image">`;
+          setTimeout(playNextMedia, currentMedia.duration || 5000); // Default duration: 5000 milliseconds
+        }
+
         currentIndex++;
       } else {
-        // If all videos have played, reset to the first video
+        // If all media have played, reset to the first media
         currentIndex = 0;
-        videoElement.src = mp4Files[currentIndex];
+        playNextMedia();
       }
-
-      // Ensure the video starts playing after the source is updated
-      videoElement.play().catch(error => {
-        // Autoplay was prevented; handle the error here if needed
-        console.error('Autoplay was prevented:', error);
-        playNextVideo(); // Try to play the next video even if autoplay is prevented
-      });
     }
 
-    // Listen for the 'error' event to handle missing or invalid video files
-    videoElement.addEventListener('error', function() {
-      console.error('Error loading video:', videoElement.src);
-      playNextVideo(); // Skip to the next video
-    });
-
-    // Listen for the 'ended' event to play the next video
-    videoElement.addEventListener('ended', function() {
-      playNextVideo();
-    });
-
-    document.body.appendChild(videoElement);
-
-    // Start playing the first video
-    playNextVideo();
+    // Start playing the first media
+    playNextMedia();
   };
 </script>
 

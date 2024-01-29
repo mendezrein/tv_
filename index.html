@@ -23,7 +23,7 @@
     // List of media files with type and duration
     const mediaFiles = [
       { type: 'video', src: 'Recap_Pantallas2.mp4' },
-      // Add more media files with type and duration as needed
+      { type: 'image', src: 'example.jpg', duration: 5000 }, // Add more media files with type, src, and duration as needed
     ];
 
     let currentIndex = 0;
@@ -36,7 +36,7 @@
         const currentMedia = mediaFiles[currentIndex];
 
         if (currentMedia.type === 'video') {
-          mediaElement.innerHTML = `<video autoplay muted src="${currentMedia.src}"></video>`;
+          mediaElement.innerHTML = `<video autoplay muted controls src="${currentMedia.src}"></video>`;
           const videoElement = mediaElement.querySelector('video');
           videoElement.addEventListener('ended', playNextMedia);
         } else if (currentMedia.type === 'image') {

@@ -1,61 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Autoplay and Loop All Media Files</title>
-  <style>
-    body {
-      margin: 0;
-      overflow: hidden;
-    }
-
-    img, video {
-      width: 1280px;
-      height: auto;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Looping Video Player</title>
 </head>
-<body>
+<body style="margin: 0; overflow: hidden;">
 
-<script>
-  window.onload = function() {
-    // List of media files with type and duration
-    const mediaFiles = [
-      { type: 'video', src: 'Recap_Pantallas2.mp4' },
-      { type: 'image', src: 'example.jpg', duration: 5000 }, // Add more media files with type, src, and duration as needed
-    ];
+    <video id="videoPlayer" width="1366px" height="auto" muted controls loop>
+        <source src="Recap_Pantallas2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
-    let currentIndex = 0;
+    <script>
+        const videoPlayer = document.getElementById('videoPlayer');
 
-    const mediaElement = document.createElement('div');
-    document.body.appendChild(mediaElement);
+        // Add a 1-second delay before autoplay
+        setTimeout(() => {
+            videoPlayer.play();
+        }, 1000);
 
-    function playNextMedia() {
-      if (currentIndex < mediaFiles.length) {
-        const currentMedia = mediaFiles[currentIndex];
+        videoPlayer.addEventListener('click', () => {
+            if (videoPlayer.requestFullscreen) {
+                videoPlayer.requestFullscreen();
+            } else if (videoPlayer.mozRequestFullScreen) {
+                videoPlayer.mozRequestFullScreen();
+            } else if (videoPlayer.webkitRequestFullscreen) {
+                videoPlayer.webkitRequestFullscreen();
+            } else if (videoPlayer.msRequestFullscreen) {
+                videoPlayer.msRequestFullscreen();
+            }
+        });
 
-        if (currentMedia.type === 'video') {
-          mediaElement.innerHTML = `<video autoplay muted controls src="${currentMedia.src}"></video>`;
-          const videoElement = mediaElement.querySelector('video');
-          videoElement.addEventListener('ended', playNextMedia);
-        } else if (currentMedia.type === 'image') {
-          mediaElement.innerHTML = `<img src="${currentMedia.src}" alt="Image">`;
-          setTimeout(playNextMedia, currentMedia.duration || 5000); // Default duration: 5000 milliseconds
+        document.addEventListener('fullscreenchange', exitFullScreenHandler);
+        document.addEventListener('mozfullscreenchange', exitFullScreenHandler);
+        document.addEventListener('webkitfullscreenchange', exitFullScreenHandler);
+        document.addEventListener('MSFullscreenChange', exitFullScreenHandler);
+
+        function exitFullScreenHandler() {
+            if (!document.fullscreenElement && !document.mozFullScreenElement &&
+                !document.webkitFullscreenElement && !document.msFullscreenElement) {
+                videoPlayer.pause();
+                videoPlayer.currentTime = 0;
+            }
         }
-
-        currentIndex++;
-      } else {
-        // If all media have played, reset to the first media
-        currentIndex = 0;
-        playNextMedia();
-      }
-    }
-
-    // Start playing the first media
-    playNextMedia();
-  };
-</script>
+    </script>
 
 </body>
 </html>

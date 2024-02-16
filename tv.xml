@@ -1,8 +1,849 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-  <programme start="20240101000000 -0500" stop="20241231235959 -0500">
-    <title lang="es">Programa by Mendez</title>
-    <desc>Descripción del programa</desc>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa A&E HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa A&E Mundo by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa AMC by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa AMC HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa America Television by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa America TV HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa America TV PY by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Animal Planet by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Animal Planet HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Antena 3 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ANTV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ATRES SERIES by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ATRES SERIES HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ATV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa AXN by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa AXN HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa AZ Cinema HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Baby First by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Baby TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa BBC World by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Bethel TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Bym Sports by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CableNoticias by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal 1 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal 13 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal 13 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal 24 Horas HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal Caracol by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal Claro by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal de Las estrellas by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal Del Congreso CO by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal N by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal RCN by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Canal Uno by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Caracol HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Cartoon Network by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Cartoon Network HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Cartoonito by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CDF HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CDO basico by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CDO premium by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CHV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CHV HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Cinecanal by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Cinecanal HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Cinemax by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Cinemax HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa City TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Claro Cinema by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Claro Sports by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Clover by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CLOVER HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CNN Chile by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CNN Chile HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CNN espanol by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa CNN Internacional by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Comedy Central by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Comedy Central HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Conciencia by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Cubavision by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa De Pelicula by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa DHE HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery Channel by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery H&H HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery ID by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery ID HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa DISCOVERY KIDS by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery Kids HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery Science by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery Theater HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa DISCOVERY TURBO by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Discovery World HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Disney Channel by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Disney HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Disney Jr by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Distrito Comedia by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa DW (Deutsch +) by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa E Entertainment by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa E HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ECDF El canal del futbol HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Ecuador TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Ecuavisa by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa El Gourmet by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa El Gourmet HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa El Trece by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa EnerGeek by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa EnerGeek Fanpop by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa EnerGeek Wowly by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Enlace by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Epoca by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN 2 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN 2 CO by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN 2 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN 3 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN 3 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN 4 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN 4 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN EXTRA HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ESPN HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ETC TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Eurochannel by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa EWTV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa FANB by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Food Network HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Fox News by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Fox sports by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Fox Sports 1 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Fox Sports 1 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Fox Sports 2 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa FOX Sports 2 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Fox Sports 3 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Fox Sports 3 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa France 24 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa FX by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa FX HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Gama TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Gamavision by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Glitz by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Globo Internacional by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Gol Peru by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Gol Peru HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Gol TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Gol TV HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Golden HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Golf Channel by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO 2 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO 2 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO Family by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO Family hd by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO Mundi by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO plus by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO POP by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO POP HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO SD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO Signature by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO Xtream by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO Xtreme by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HBO XTREME HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HGTV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa History 2 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa History 2 HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa History Channel by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa History Channel HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HOLA TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Hola TV HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Home and Health by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa HTV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa I-sat by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Kanal D Drama by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Kanal D Drama HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa La red by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa La Red HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Las Estrellas by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Las Estrellas HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Latina by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Latina HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Libertad by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Lifetime by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Lolly Kids by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Lolly Kids HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Love Nature by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Love Nature HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Mas Chic by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Mega by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa MEGA HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Meridiano by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa movistar deportes by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Movistar Deportes HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa MOVISTAR PLUS by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa MTV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa MTV 00s by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa MTV HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Nat Geo by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Nat Geo HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa NICK HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa NICK JR by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Nickelodeon by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa NTN 24 Horas by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa NTV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa NTV HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Nuestra Tele by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Oromar TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Panamericana by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Paramount by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Paramount HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Pasiones HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Peru Magico by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa RAI by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa RCN HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa RCN Novelas by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Rec TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa RPP by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa RTS by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa RTU by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Senal Colombiana by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Senal Colombiana HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Sin Limites by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa SNT by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Sony by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Sony HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Space by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Space HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Star Channel by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa STAR CHANNEL HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Star TVE HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Stingray Concerts HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Studio Universal by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Studio Universal HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Sun Channel by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Sun Channel HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa SYFY by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TBS by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TC Television by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TCM by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Teen Nick by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Teleamazonas by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Teleantioquia by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Telecafe by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Telecanal by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa telecaribe by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Telefe by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa telefuturo by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Telehit HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Teleislas by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Telemundo by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Telenovelas by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Telepacifico by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Telesur by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa teletrak by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Televicentro by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TLC by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TLT by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TNT by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TNT HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TNT Novelas HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Tnt Series by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TNT Series HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TNT Sports 2 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TNT Sports 3 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TNT SPORTS HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Tooncast by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Tru TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TRUTV HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TV Diputados by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TV Peru by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TV PERU 7.3 by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TV Senado by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TV+ by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TV+ HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TVE by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TVES by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa tvn by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TVN HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TYC Sports by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa TYC Sports HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa UCL by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Unicanal by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Universal by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa UNIVERSAL CHANNEL HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Universal Cinema SD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Universal Comedy SD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Universal Premiere SD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Venevision by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa VenevisionPlus by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Venezolana de TV by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Via X Esports by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa ViaX by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Vive by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Warner by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Warner Channel HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Willax by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Win by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Win Sports + by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Win Sports HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Win Sports+ by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Win Sports+ HD by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa WOBI by Mendez</title>
+  </programme>
+  <programme start="20240101000000 +0000" channel="channel_id">
+    <title lang="es">Programa Zona Latina by Mendez</title>
   </programme>
 </tv>

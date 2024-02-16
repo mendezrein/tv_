@@ -4,1692 +4,1974 @@
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="A&E HD">
       <title lang="es">Programa A&E HD by Mendez</title>
+      <desc lang="es">Descripción del programa A&E HD</desc>
     </programme>
   </channel>
   <channel id="A&E Mundo">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="A&E Mundo">
       <title lang="es">Programa A&E Mundo by Mendez</title>
+      <desc lang="es">Descripción del programa A&E Mundo</desc>
     </programme>
   </channel>
   <channel id="AMC">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="AMC">
       <title lang="es">Programa AMC by Mendez</title>
+      <desc lang="es">Descripción del programa AMC</desc>
     </programme>
   </channel>
   <channel id="AMC HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="AMC HD">
       <title lang="es">Programa AMC HD by Mendez</title>
+      <desc lang="es">Descripción del programa AMC HD</desc>
     </programme>
   </channel>
   <channel id="America Television">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="America Television">
       <title lang="es">Programa America Television by Mendez</title>
+      <desc lang="es">Descripción del programa America Television</desc>
     </programme>
   </channel>
   <channel id="America TV HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="America TV HD">
       <title lang="es">Programa America TV HD by Mendez</title>
+      <desc lang="es">Descripción del programa America TV HD</desc>
     </programme>
   </channel>
   <channel id="America TV PY">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="America TV PY">
       <title lang="es">Programa America TV PY by Mendez</title>
+      <desc lang="es">Descripción del programa America TV PY</desc>
     </programme>
   </channel>
   <channel id="Animal Planet">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Animal Planet">
       <title lang="es">Programa Animal Planet by Mendez</title>
+      <desc lang="es">Descripción del programa Animal Planet</desc>
     </programme>
   </channel>
   <channel id="Animal Planet HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Animal Planet HD">
       <title lang="es">Programa Animal Planet HD by Mendez</title>
+      <desc lang="es">Descripción del programa Animal Planet HD</desc>
     </programme>
   </channel>
   <channel id="Antena 3">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Antena 3">
       <title lang="es">Programa Antena 3 by Mendez</title>
+      <desc lang="es">Descripción del programa Antena 3</desc>
     </programme>
   </channel>
   <channel id="ANTV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ANTV">
       <title lang="es">Programa ANTV by Mendez</title>
+      <desc lang="es">Descripción del programa ANTV</desc>
     </programme>
   </channel>
   <channel id="ATRES SERIES">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ATRES SERIES">
       <title lang="es">Programa ATRES SERIES by Mendez</title>
+      <desc lang="es">Descripción del programa ATRES SERIES</desc>
     </programme>
   </channel>
   <channel id="ATRES SERIES HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ATRES SERIES HD">
       <title lang="es">Programa ATRES SERIES HD by Mendez</title>
+      <desc lang="es">Descripción del programa ATRES SERIES HD</desc>
     </programme>
   </channel>
   <channel id="ATV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ATV">
       <title lang="es">Programa ATV by Mendez</title>
+      <desc lang="es">Descripción del programa ATV</desc>
     </programme>
   </channel>
   <channel id="AXN">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="AXN">
       <title lang="es">Programa AXN by Mendez</title>
+      <desc lang="es">Descripción del programa AXN</desc>
     </programme>
   </channel>
   <channel id="AXN HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="AXN HD">
       <title lang="es">Programa AXN HD by Mendez</title>
+      <desc lang="es">Descripción del programa AXN HD</desc>
     </programme>
   </channel>
   <channel id="AZ Cinema HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="AZ Cinema HD">
       <title lang="es">Programa AZ Cinema HD by Mendez</title>
+      <desc lang="es">Descripción del programa AZ Cinema HD</desc>
     </programme>
   </channel>
   <channel id="Baby First">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Baby First">
       <title lang="es">Programa Baby First by Mendez</title>
+      <desc lang="es">Descripción del programa Baby First</desc>
     </programme>
   </channel>
   <channel id="Baby TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Baby TV">
       <title lang="es">Programa Baby TV by Mendez</title>
+      <desc lang="es">Descripción del programa Baby TV</desc>
     </programme>
   </channel>
   <channel id="BBC World">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="BBC World">
       <title lang="es">Programa BBC World by Mendez</title>
+      <desc lang="es">Descripción del programa BBC World</desc>
     </programme>
   </channel>
   <channel id="Bethel TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Bethel TV">
       <title lang="es">Programa Bethel TV by Mendez</title>
+      <desc lang="es">Descripción del programa Bethel TV</desc>
     </programme>
   </channel>
   <channel id="Bym Sports">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Bym Sports">
       <title lang="es">Programa Bym Sports by Mendez</title>
+      <desc lang="es">Descripción del programa Bym Sports</desc>
     </programme>
   </channel>
   <channel id="CableNoticias">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CableNoticias">
       <title lang="es">Programa CableNoticias by Mendez</title>
+      <desc lang="es">Descripción del programa CableNoticias</desc>
     </programme>
   </channel>
   <channel id="Canal 1 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal 1 HD">
       <title lang="es">Programa Canal 1 HD by Mendez</title>
+      <desc lang="es">Descripción del programa Canal 1 HD</desc>
     </programme>
   </channel>
   <channel id="Canal 13">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal 13">
       <title lang="es">Programa Canal 13 by Mendez</title>
+      <desc lang="es">Descripción del programa Canal 13</desc>
     </programme>
   </channel>
   <channel id="Canal 13 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal 13 HD">
       <title lang="es">Programa Canal 13 HD by Mendez</title>
+      <desc lang="es">Descripción del programa Canal 13 HD</desc>
     </programme>
   </channel>
   <channel id="Canal 24 Horas HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal 24 Horas HD">
       <title lang="es">Programa Canal 24 Horas HD by Mendez</title>
+      <desc lang="es">Descripción del programa Canal 24 Horas HD</desc>
     </programme>
   </channel>
   <channel id="Canal Caracol">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal Caracol">
       <title lang="es">Programa Canal Caracol by Mendez</title>
+      <desc lang="es">Descripción del programa Canal Caracol</desc>
     </programme>
   </channel>
   <channel id="Canal Claro">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal Claro">
       <title lang="es">Programa Canal Claro by Mendez</title>
+      <desc lang="es">Descripción del programa Canal Claro</desc>
     </programme>
   </channel>
   <channel id="Canal de Las estrellas">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal de Las estrellas">
       <title lang="es">Programa Canal de Las estrellas by Mendez</title>
+      <desc lang="es">Descripción del programa Canal de Las estrellas</desc>
     </programme>
   </channel>
   <channel id="Canal Del Congreso CO">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal Del Congreso CO">
       <title lang="es">Programa Canal Del Congreso CO by Mendez</title>
+      <desc lang="es">Descripción del programa Canal Del Congreso CO</desc>
     </programme>
   </channel>
   <channel id="Canal N">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal N">
       <title lang="es">Programa Canal N by Mendez</title>
+      <desc lang="es">Descripción del programa Canal N</desc>
     </programme>
   </channel>
   <channel id="Canal RCN">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal RCN">
       <title lang="es">Programa Canal RCN by Mendez</title>
+      <desc lang="es">Descripción del programa Canal RCN</desc>
     </programme>
   </channel>
   <channel id="Canal Uno">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Canal Uno">
       <title lang="es">Programa Canal Uno by Mendez</title>
+      <desc lang="es">Descripción del programa Canal Uno</desc>
     </programme>
   </channel>
   <channel id="Caracol HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Caracol HD">
       <title lang="es">Programa Caracol HD by Mendez</title>
+      <desc lang="es">Descripción del programa Caracol HD</desc>
     </programme>
   </channel>
   <channel id="Cartoon Network">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Cartoon Network">
       <title lang="es">Programa Cartoon Network by Mendez</title>
+      <desc lang="es">Descripción del programa Cartoon Network</desc>
     </programme>
   </channel>
   <channel id="Cartoon Network HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Cartoon Network HD">
       <title lang="es">Programa Cartoon Network HD by Mendez</title>
+      <desc lang="es">Descripción del programa Cartoon Network HD</desc>
     </programme>
   </channel>
   <channel id="Cartoonito">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Cartoonito">
       <title lang="es">Programa Cartoonito by Mendez</title>
+      <desc lang="es">Descripción del programa Cartoonito</desc>
     </programme>
   </channel>
   <channel id="CDF HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CDF HD">
       <title lang="es">Programa CDF HD by Mendez</title>
+      <desc lang="es">Descripción del programa CDF HD</desc>
     </programme>
   </channel>
   <channel id="CDO basico">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CDO basico">
       <title lang="es">Programa CDO basico by Mendez</title>
+      <desc lang="es">Descripción del programa CDO basico</desc>
     </programme>
   </channel>
   <channel id="CDO premium">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CDO premium">
       <title lang="es">Programa CDO premium by Mendez</title>
+      <desc lang="es">Descripción del programa CDO premium</desc>
     </programme>
   </channel>
   <channel id="CHV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CHV">
       <title lang="es">Programa CHV by Mendez</title>
+      <desc lang="es">Descripción del programa CHV</desc>
     </programme>
   </channel>
   <channel id="CHV HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CHV HD">
       <title lang="es">Programa CHV HD by Mendez</title>
+      <desc lang="es">Descripción del programa CHV HD</desc>
     </programme>
   </channel>
   <channel id="Cinecanal">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Cinecanal">
       <title lang="es">Programa Cinecanal by Mendez</title>
+      <desc lang="es">Descripción del programa Cinecanal</desc>
     </programme>
   </channel>
   <channel id="Cinecanal HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Cinecanal HD">
       <title lang="es">Programa Cinecanal HD by Mendez</title>
+      <desc lang="es">Descripción del programa Cinecanal HD</desc>
     </programme>
   </channel>
   <channel id="Cinemax">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Cinemax">
       <title lang="es">Programa Cinemax by Mendez</title>
+      <desc lang="es">Descripción del programa Cinemax</desc>
     </programme>
   </channel>
   <channel id="Cinemax HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Cinemax HD">
       <title lang="es">Programa Cinemax HD by Mendez</title>
+      <desc lang="es">Descripción del programa Cinemax HD</desc>
     </programme>
   </channel>
   <channel id="City TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="City TV">
       <title lang="es">Programa City TV by Mendez</title>
+      <desc lang="es">Descripción del programa City TV</desc>
     </programme>
   </channel>
   <channel id="Claro Cinema">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Claro Cinema">
       <title lang="es">Programa Claro Cinema by Mendez</title>
+      <desc lang="es">Descripción del programa Claro Cinema</desc>
     </programme>
   </channel>
   <channel id="Claro Sports">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Claro Sports">
       <title lang="es">Programa Claro Sports by Mendez</title>
+      <desc lang="es">Descripción del programa Claro Sports</desc>
     </programme>
   </channel>
   <channel id="Clover">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Clover">
       <title lang="es">Programa Clover by Mendez</title>
+      <desc lang="es">Descripción del programa Clover</desc>
     </programme>
   </channel>
   <channel id="CLOVER HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CLOVER HD">
       <title lang="es">Programa CLOVER HD by Mendez</title>
+      <desc lang="es">Descripción del programa CLOVER HD</desc>
     </programme>
   </channel>
   <channel id="CNN Chile">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CNN Chile">
       <title lang="es">Programa CNN Chile by Mendez</title>
+      <desc lang="es">Descripción del programa CNN Chile</desc>
     </programme>
   </channel>
   <channel id="CNN Chile HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CNN Chile HD">
       <title lang="es">Programa CNN Chile HD by Mendez</title>
+      <desc lang="es">Descripción del programa CNN Chile HD</desc>
     </programme>
   </channel>
   <channel id="CNN espanol">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CNN espanol">
       <title lang="es">Programa CNN espanol by Mendez</title>
+      <desc lang="es">Descripción del programa CNN espanol</desc>
     </programme>
   </channel>
   <channel id="CNN Internacional">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="CNN Internacional">
       <title lang="es">Programa CNN Internacional by Mendez</title>
+      <desc lang="es">Descripción del programa CNN Internacional</desc>
     </programme>
   </channel>
   <channel id="Comedy Central">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Comedy Central">
       <title lang="es">Programa Comedy Central by Mendez</title>
+      <desc lang="es">Descripción del programa Comedy Central</desc>
     </programme>
   </channel>
   <channel id="Comedy Central HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Comedy Central HD">
       <title lang="es">Programa Comedy Central HD by Mendez</title>
+      <desc lang="es">Descripción del programa Comedy Central HD</desc>
     </programme>
   </channel>
   <channel id="Conciencia">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Conciencia">
       <title lang="es">Programa Conciencia by Mendez</title>
+      <desc lang="es">Descripción del programa Conciencia</desc>
     </programme>
   </channel>
   <channel id="Cubavision">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Cubavision">
       <title lang="es">Programa Cubavision by Mendez</title>
+      <desc lang="es">Descripción del programa Cubavision</desc>
     </programme>
   </channel>
   <channel id="De Pelicula">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="De Pelicula">
       <title lang="es">Programa De Pelicula by Mendez</title>
+      <desc lang="es">Descripción del programa De Pelicula</desc>
     </programme>
   </channel>
   <channel id="DHE HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="DHE HD">
       <title lang="es">Programa DHE HD by Mendez</title>
+      <desc lang="es">Descripción del programa DHE HD</desc>
     </programme>
   </channel>
   <channel id="Discovery Channel">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery Channel">
       <title lang="es">Programa Discovery Channel by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery Channel</desc>
     </programme>
   </channel>
   <channel id="Discovery H&H HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery H&H HD">
       <title lang="es">Programa Discovery H&H HD by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery H&H HD</desc>
     </programme>
   </channel>
   <channel id="Discovery HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery HD">
       <title lang="es">Programa Discovery HD by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery HD</desc>
     </programme>
   </channel>
   <channel id="Discovery ID">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery ID">
       <title lang="es">Programa Discovery ID by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery ID</desc>
     </programme>
   </channel>
   <channel id="Discovery ID HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery ID HD">
       <title lang="es">Programa Discovery ID HD by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery ID HD</desc>
     </programme>
   </channel>
   <channel id="DISCOVERY KIDS">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="DISCOVERY KIDS">
       <title lang="es">Programa DISCOVERY KIDS by Mendez</title>
+      <desc lang="es">Descripción del programa DISCOVERY KIDS</desc>
     </programme>
   </channel>
   <channel id="Discovery Kids HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery Kids HD">
       <title lang="es">Programa Discovery Kids HD by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery Kids HD</desc>
     </programme>
   </channel>
   <channel id="Discovery Science">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery Science">
       <title lang="es">Programa Discovery Science by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery Science</desc>
     </programme>
   </channel>
   <channel id="Discovery Theater HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery Theater HD">
       <title lang="es">Programa Discovery Theater HD by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery Theater HD</desc>
     </programme>
   </channel>
   <channel id="DISCOVERY TURBO">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="DISCOVERY TURBO">
       <title lang="es">Programa DISCOVERY TURBO by Mendez</title>
+      <desc lang="es">Descripción del programa DISCOVERY TURBO</desc>
     </programme>
   </channel>
   <channel id="Discovery World HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Discovery World HD">
       <title lang="es">Programa Discovery World HD by Mendez</title>
+      <desc lang="es">Descripción del programa Discovery World HD</desc>
     </programme>
   </channel>
   <channel id="Disney Channel">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Disney Channel">
       <title lang="es">Programa Disney Channel by Mendez</title>
+      <desc lang="es">Descripción del programa Disney Channel</desc>
     </programme>
   </channel>
   <channel id="Disney HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Disney HD">
       <title lang="es">Programa Disney HD by Mendez</title>
+      <desc lang="es">Descripción del programa Disney HD</desc>
     </programme>
   </channel>
   <channel id="Disney Jr">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Disney Jr">
       <title lang="es">Programa Disney Jr by Mendez</title>
+      <desc lang="es">Descripción del programa Disney Jr</desc>
     </programme>
   </channel>
   <channel id="Distrito Comedia">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Distrito Comedia">
       <title lang="es">Programa Distrito Comedia by Mendez</title>
+      <desc lang="es">Descripción del programa Distrito Comedia</desc>
     </programme>
   </channel>
   <channel id="DW (Deutsch +)">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="DW (Deutsch +)">
       <title lang="es">Programa DW (Deutsch +) by Mendez</title>
+      <desc lang="es">Descripción del programa DW (Deutsch +)</desc>
     </programme>
   </channel>
   <channel id="E Entertainment">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="E Entertainment">
       <title lang="es">Programa E Entertainment by Mendez</title>
+      <desc lang="es">Descripción del programa E Entertainment</desc>
     </programme>
   </channel>
   <channel id="E HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="E HD">
       <title lang="es">Programa E HD by Mendez</title>
+      <desc lang="es">Descripción del programa E HD</desc>
     </programme>
   </channel>
   <channel id="ECDF El canal del futbol HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ECDF El canal del futbol HD">
       <title lang="es">Programa ECDF El canal del futbol HD by Mendez</title>
+      <desc lang="es">Descripción del programa ECDF El canal del futbol HD</desc>
     </programme>
   </channel>
   <channel id="Ecuador TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Ecuador TV">
       <title lang="es">Programa Ecuador TV by Mendez</title>
+      <desc lang="es">Descripción del programa Ecuador TV</desc>
     </programme>
   </channel>
   <channel id="Ecuavisa">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Ecuavisa">
       <title lang="es">Programa Ecuavisa by Mendez</title>
+      <desc lang="es">Descripción del programa Ecuavisa</desc>
     </programme>
   </channel>
   <channel id="El Gourmet">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="El Gourmet">
       <title lang="es">Programa El Gourmet by Mendez</title>
+      <desc lang="es">Descripción del programa El Gourmet</desc>
     </programme>
   </channel>
   <channel id="El Gourmet HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="El Gourmet HD">
       <title lang="es">Programa El Gourmet HD by Mendez</title>
+      <desc lang="es">Descripción del programa El Gourmet HD</desc>
     </programme>
   </channel>
   <channel id="El Trece">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="El Trece">
       <title lang="es">Programa El Trece by Mendez</title>
+      <desc lang="es">Descripción del programa El Trece</desc>
     </programme>
   </channel>
   <channel id="EnerGeek">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="EnerGeek">
       <title lang="es">Programa EnerGeek by Mendez</title>
+      <desc lang="es">Descripción del programa EnerGeek</desc>
     </programme>
   </channel>
   <channel id="EnerGeek Fanpop">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="EnerGeek Fanpop">
       <title lang="es">Programa EnerGeek Fanpop by Mendez</title>
+      <desc lang="es">Descripción del programa EnerGeek Fanpop</desc>
     </programme>
   </channel>
   <channel id="EnerGeek Wowly">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="EnerGeek Wowly">
       <title lang="es">Programa EnerGeek Wowly by Mendez</title>
+      <desc lang="es">Descripción del programa EnerGeek Wowly</desc>
     </programme>
   </channel>
   <channel id="Enlace">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Enlace">
       <title lang="es">Programa Enlace by Mendez</title>
+      <desc lang="es">Descripción del programa Enlace</desc>
     </programme>
   </channel>
   <channel id="Epoca">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Epoca">
       <title lang="es">Programa Epoca by Mendez</title>
+      <desc lang="es">Descripción del programa Epoca</desc>
     </programme>
   </channel>
   <channel id="ESPN">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN">
       <title lang="es">Programa ESPN by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN</desc>
     </programme>
   </channel>
   <channel id="ESPN 2">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN 2">
       <title lang="es">Programa ESPN 2 by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN 2</desc>
     </programme>
   </channel>
   <channel id="ESPN 2 CO">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN 2 CO">
       <title lang="es">Programa ESPN 2 CO by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN 2 CO</desc>
     </programme>
   </channel>
   <channel id="ESPN 2 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN 2 HD">
       <title lang="es">Programa ESPN 2 HD by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN 2 HD</desc>
     </programme>
   </channel>
   <channel id="ESPN 3">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN 3">
       <title lang="es">Programa ESPN 3 by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN 3</desc>
     </programme>
   </channel>
   <channel id="ESPN 3 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN 3 HD">
       <title lang="es">Programa ESPN 3 HD by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN 3 HD</desc>
     </programme>
   </channel>
   <channel id="ESPN 4">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN 4">
       <title lang="es">Programa ESPN 4 by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN 4</desc>
     </programme>
   </channel>
   <channel id="ESPN 4 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN 4 HD">
       <title lang="es">Programa ESPN 4 HD by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN 4 HD</desc>
     </programme>
   </channel>
   <channel id="ESPN EXTRA HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN EXTRA HD">
       <title lang="es">Programa ESPN EXTRA HD by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN EXTRA HD</desc>
     </programme>
   </channel>
   <channel id="ESPN HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ESPN HD">
       <title lang="es">Programa ESPN HD by Mendez</title>
+      <desc lang="es">Descripción del programa ESPN HD</desc>
     </programme>
   </channel>
   <channel id="ETC TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ETC TV">
       <title lang="es">Programa ETC TV by Mendez</title>
+      <desc lang="es">Descripción del programa ETC TV</desc>
     </programme>
   </channel>
   <channel id="Eurochannel">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Eurochannel">
       <title lang="es">Programa Eurochannel by Mendez</title>
+      <desc lang="es">Descripción del programa Eurochannel</desc>
     </programme>
   </channel>
   <channel id="EWTV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="EWTV">
       <title lang="es">Programa EWTV by Mendez</title>
+      <desc lang="es">Descripción del programa EWTV</desc>
     </programme>
   </channel>
   <channel id="FANB">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="FANB">
       <title lang="es">Programa FANB by Mendez</title>
+      <desc lang="es">Descripción del programa FANB</desc>
     </programme>
   </channel>
   <channel id="Food Network HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Food Network HD">
       <title lang="es">Programa Food Network HD by Mendez</title>
+      <desc lang="es">Descripción del programa Food Network HD</desc>
     </programme>
   </channel>
   <channel id="Fox News">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Fox News">
       <title lang="es">Programa Fox News by Mendez</title>
+      <desc lang="es">Descripción del programa Fox News</desc>
     </programme>
   </channel>
   <channel id="Fox sports">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Fox sports">
       <title lang="es">Programa Fox sports by Mendez</title>
+      <desc lang="es">Descripción del programa Fox sports</desc>
     </programme>
   </channel>
   <channel id="Fox Sports 1">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Fox Sports 1">
       <title lang="es">Programa Fox Sports 1 by Mendez</title>
+      <desc lang="es">Descripción del programa Fox Sports 1</desc>
     </programme>
   </channel>
   <channel id="Fox Sports 1 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Fox Sports 1 HD">
       <title lang="es">Programa Fox Sports 1 HD by Mendez</title>
+      <desc lang="es">Descripción del programa Fox Sports 1 HD</desc>
     </programme>
   </channel>
   <channel id="Fox Sports 2">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Fox Sports 2">
       <title lang="es">Programa Fox Sports 2 by Mendez</title>
+      <desc lang="es">Descripción del programa Fox Sports 2</desc>
     </programme>
   </channel>
   <channel id="FOX Sports 2 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="FOX Sports 2 HD">
       <title lang="es">Programa FOX Sports 2 HD by Mendez</title>
+      <desc lang="es">Descripción del programa FOX Sports 2 HD</desc>
     </programme>
   </channel>
   <channel id="Fox Sports 3">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Fox Sports 3">
       <title lang="es">Programa Fox Sports 3 by Mendez</title>
+      <desc lang="es">Descripción del programa Fox Sports 3</desc>
     </programme>
   </channel>
   <channel id="Fox Sports 3 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Fox Sports 3 HD">
       <title lang="es">Programa Fox Sports 3 HD by Mendez</title>
+      <desc lang="es">Descripción del programa Fox Sports 3 HD</desc>
     </programme>
   </channel>
   <channel id="France 24">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="France 24">
       <title lang="es">Programa France 24 by Mendez</title>
+      <desc lang="es">Descripción del programa France 24</desc>
     </programme>
   </channel>
   <channel id="FX">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="FX">
       <title lang="es">Programa FX by Mendez</title>
+      <desc lang="es">Descripción del programa FX</desc>
     </programme>
   </channel>
   <channel id="FX HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="FX HD">
       <title lang="es">Programa FX HD by Mendez</title>
+      <desc lang="es">Descripción del programa FX HD</desc>
     </programme>
   </channel>
   <channel id="Gama TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Gama TV">
       <title lang="es">Programa Gama TV by Mendez</title>
+      <desc lang="es">Descripción del programa Gama TV</desc>
     </programme>
   </channel>
   <channel id="Gamavision">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Gamavision">
       <title lang="es">Programa Gamavision by Mendez</title>
+      <desc lang="es">Descripción del programa Gamavision</desc>
     </programme>
   </channel>
   <channel id="Glitz">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Glitz">
       <title lang="es">Programa Glitz by Mendez</title>
+      <desc lang="es">Descripción del programa Glitz</desc>
     </programme>
   </channel>
   <channel id="Globo Internacional">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Globo Internacional">
       <title lang="es">Programa Globo Internacional by Mendez</title>
+      <desc lang="es">Descripción del programa Globo Internacional</desc>
     </programme>
   </channel>
   <channel id="Gol Peru">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Gol Peru">
       <title lang="es">Programa Gol Peru by Mendez</title>
+      <desc lang="es">Descripción del programa Gol Peru</desc>
     </programme>
   </channel>
   <channel id="Gol Peru HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Gol Peru HD">
       <title lang="es">Programa Gol Peru HD by Mendez</title>
+      <desc lang="es">Descripción del programa Gol Peru HD</desc>
     </programme>
   </channel>
   <channel id="Gol TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Gol TV">
       <title lang="es">Programa Gol TV by Mendez</title>
+      <desc lang="es">Descripción del programa Gol TV</desc>
     </programme>
   </channel>
   <channel id="Gol TV HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Gol TV HD">
       <title lang="es">Programa Gol TV HD by Mendez</title>
+      <desc lang="es">Descripción del programa Gol TV HD</desc>
     </programme>
   </channel>
   <channel id="Golden HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Golden HD">
       <title lang="es">Programa Golden HD by Mendez</title>
+      <desc lang="es">Descripción del programa Golden HD</desc>
     </programme>
   </channel>
   <channel id="Golf Channel">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Golf Channel">
       <title lang="es">Programa Golf Channel by Mendez</title>
+      <desc lang="es">Descripción del programa Golf Channel</desc>
     </programme>
   </channel>
   <channel id="HBO">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO">
       <title lang="es">Programa HBO by Mendez</title>
+      <desc lang="es">Descripción del programa HBO</desc>
     </programme>
   </channel>
   <channel id="HBO 2">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO 2">
       <title lang="es">Programa HBO 2 by Mendez</title>
+      <desc lang="es">Descripción del programa HBO 2</desc>
     </programme>
   </channel>
   <channel id="HBO 2 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO 2 HD">
       <title lang="es">Programa HBO 2 HD by Mendez</title>
+      <desc lang="es">Descripción del programa HBO 2 HD</desc>
     </programme>
   </channel>
   <channel id="HBO Family">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO Family">
       <title lang="es">Programa HBO Family by Mendez</title>
+      <desc lang="es">Descripción del programa HBO Family</desc>
     </programme>
   </channel>
   <channel id="HBO Family hd">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO Family hd">
       <title lang="es">Programa HBO Family hd by Mendez</title>
+      <desc lang="es">Descripción del programa HBO Family hd</desc>
     </programme>
   </channel>
   <channel id="HBO HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO HD">
       <title lang="es">Programa HBO HD by Mendez</title>
+      <desc lang="es">Descripción del programa HBO HD</desc>
     </programme>
   </channel>
   <channel id="HBO Mundi">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO Mundi">
       <title lang="es">Programa HBO Mundi by Mendez</title>
+      <desc lang="es">Descripción del programa HBO Mundi</desc>
     </programme>
   </channel>
   <channel id="HBO plus">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO plus">
       <title lang="es">Programa HBO plus by Mendez</title>
+      <desc lang="es">Descripción del programa HBO plus</desc>
     </programme>
   </channel>
   <channel id="HBO POP">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO POP">
       <title lang="es">Programa HBO POP by Mendez</title>
+      <desc lang="es">Descripción del programa HBO POP</desc>
     </programme>
   </channel>
   <channel id="HBO POP HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO POP HD">
       <title lang="es">Programa HBO POP HD by Mendez</title>
+      <desc lang="es">Descripción del programa HBO POP HD</desc>
     </programme>
   </channel>
   <channel id="HBO SD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO SD">
       <title lang="es">Programa HBO SD by Mendez</title>
+      <desc lang="es">Descripción del programa HBO SD</desc>
     </programme>
   </channel>
   <channel id="HBO Signature">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO Signature">
       <title lang="es">Programa HBO Signature by Mendez</title>
+      <desc lang="es">Descripción del programa HBO Signature</desc>
     </programme>
   </channel>
   <channel id="HBO Xtream">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO Xtream">
       <title lang="es">Programa HBO Xtream by Mendez</title>
+      <desc lang="es">Descripción del programa HBO Xtream</desc>
     </programme>
   </channel>
   <channel id="HBO Xtreme">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO Xtreme">
       <title lang="es">Programa HBO Xtreme by Mendez</title>
+      <desc lang="es">Descripción del programa HBO Xtreme</desc>
     </programme>
   </channel>
   <channel id="HBO XTREME HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HBO XTREME HD">
       <title lang="es">Programa HBO XTREME HD by Mendez</title>
+      <desc lang="es">Descripción del programa HBO XTREME HD</desc>
     </programme>
   </channel>
   <channel id="HGTV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HGTV">
       <title lang="es">Programa HGTV by Mendez</title>
+      <desc lang="es">Descripción del programa HGTV</desc>
     </programme>
   </channel>
   <channel id="History 2">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="History 2">
       <title lang="es">Programa History 2 by Mendez</title>
+      <desc lang="es">Descripción del programa History 2</desc>
     </programme>
   </channel>
   <channel id="History 2 HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="History 2 HD">
       <title lang="es">Programa History 2 HD by Mendez</title>
+      <desc lang="es">Descripción del programa History 2 HD</desc>
     </programme>
   </channel>
   <channel id="History Channel">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="History Channel">
       <title lang="es">Programa History Channel by Mendez</title>
+      <desc lang="es">Descripción del programa History Channel</desc>
     </programme>
   </channel>
   <channel id="History Channel HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="History Channel HD">
       <title lang="es">Programa History Channel HD by Mendez</title>
+      <desc lang="es">Descripción del programa History Channel HD</desc>
     </programme>
   </channel>
   <channel id="HOLA TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HOLA TV">
       <title lang="es">Programa HOLA TV by Mendez</title>
+      <desc lang="es">Descripción del programa HOLA TV</desc>
     </programme>
   </channel>
   <channel id="Hola TV HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Hola TV HD">
       <title lang="es">Programa Hola TV HD by Mendez</title>
+      <desc lang="es">Descripción del programa Hola TV HD</desc>
     </programme>
   </channel>
   <channel id="Home and Health">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Home and Health">
       <title lang="es">Programa Home and Health by Mendez</title>
+      <desc lang="es">Descripción del programa Home and Health</desc>
     </programme>
   </channel>
   <channel id="HTV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="HTV">
       <title lang="es">Programa HTV by Mendez</title>
+      <desc lang="es">Descripción del programa HTV</desc>
     </programme>
   </channel>
   <channel id="I-sat">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="I-sat">
       <title lang="es">Programa I-sat by Mendez</title>
+      <desc lang="es">Descripción del programa I-sat</desc>
     </programme>
   </channel>
   <channel id="Kanal D Drama">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Kanal D Drama">
       <title lang="es">Programa Kanal D Drama by Mendez</title>
+      <desc lang="es">Descripción del programa Kanal D Drama</desc>
     </programme>
   </channel>
   <channel id="Kanal D Drama HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Kanal D Drama HD">
       <title lang="es">Programa Kanal D Drama HD by Mendez</title>
+      <desc lang="es">Descripción del programa Kanal D Drama HD</desc>
     </programme>
   </channel>
   <channel id="La red">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="La red">
       <title lang="es">Programa La red by Mendez</title>
+      <desc lang="es">Descripción del programa La red</desc>
     </programme>
   </channel>
   <channel id="La Red HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="La Red HD">
       <title lang="es">Programa La Red HD by Mendez</title>
+      <desc lang="es">Descripción del programa La Red HD</desc>
     </programme>
   </channel>
   <channel id="Las Estrellas">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Las Estrellas">
       <title lang="es">Programa Las Estrellas by Mendez</title>
+      <desc lang="es">Descripción del programa Las Estrellas</desc>
     </programme>
   </channel>
   <channel id="Las Estrellas HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Las Estrellas HD">
       <title lang="es">Programa Las Estrellas HD by Mendez</title>
+      <desc lang="es">Descripción del programa Las Estrellas HD</desc>
     </programme>
   </channel>
   <channel id="Latina">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Latina">
       <title lang="es">Programa Latina by Mendez</title>
+      <desc lang="es">Descripción del programa Latina</desc>
     </programme>
   </channel>
   <channel id="Latina HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Latina HD">
       <title lang="es">Programa Latina HD by Mendez</title>
+      <desc lang="es">Descripción del programa Latina HD</desc>
     </programme>
   </channel>
   <channel id="Libertad">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Libertad">
       <title lang="es">Programa Libertad by Mendez</title>
+      <desc lang="es">Descripción del programa Libertad</desc>
     </programme>
   </channel>
   <channel id="Lifetime">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Lifetime">
       <title lang="es">Programa Lifetime by Mendez</title>
+      <desc lang="es">Descripción del programa Lifetime</desc>
     </programme>
   </channel>
   <channel id="Lolly Kids">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Lolly Kids">
       <title lang="es">Programa Lolly Kids by Mendez</title>
+      <desc lang="es">Descripción del programa Lolly Kids</desc>
     </programme>
   </channel>
   <channel id="Lolly Kids HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Lolly Kids HD">
       <title lang="es">Programa Lolly Kids HD by Mendez</title>
+      <desc lang="es">Descripción del programa Lolly Kids HD</desc>
     </programme>
   </channel>
   <channel id="Love Nature">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Love Nature">
       <title lang="es">Programa Love Nature by Mendez</title>
+      <desc lang="es">Descripción del programa Love Nature</desc>
     </programme>
   </channel>
   <channel id="Love Nature HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Love Nature HD">
       <title lang="es">Programa Love Nature HD by Mendez</title>
+      <desc lang="es">Descripción del programa Love Nature HD</desc>
     </programme>
   </channel>
   <channel id="Mas Chic">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Mas Chic">
       <title lang="es">Programa Mas Chic by Mendez</title>
+      <desc lang="es">Descripción del programa Mas Chic</desc>
     </programme>
   </channel>
   <channel id="Mega">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Mega">
       <title lang="es">Programa Mega by Mendez</title>
+      <desc lang="es">Descripción del programa Mega</desc>
     </programme>
   </channel>
   <channel id="MEGA HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="MEGA HD">
       <title lang="es">Programa MEGA HD by Mendez</title>
+      <desc lang="es">Descripción del programa MEGA HD</desc>
     </programme>
   </channel>
   <channel id="Meridiano">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Meridiano">
       <title lang="es">Programa Meridiano by Mendez</title>
+      <desc lang="es">Descripción del programa Meridiano</desc>
     </programme>
   </channel>
   <channel id="movistar deportes">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="movistar deportes">
       <title lang="es">Programa movistar deportes by Mendez</title>
+      <desc lang="es">Descripción del programa movistar deportes</desc>
     </programme>
   </channel>
   <channel id="Movistar Deportes HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Movistar Deportes HD">
       <title lang="es">Programa Movistar Deportes HD by Mendez</title>
+      <desc lang="es">Descripción del programa Movistar Deportes HD</desc>
     </programme>
   </channel>
   <channel id="MOVISTAR PLUS">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="MOVISTAR PLUS">
       <title lang="es">Programa MOVISTAR PLUS by Mendez</title>
+      <desc lang="es">Descripción del programa MOVISTAR PLUS</desc>
     </programme>
   </channel>
   <channel id="MTV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="MTV">
       <title lang="es">Programa MTV by Mendez</title>
+      <desc lang="es">Descripción del programa MTV</desc>
     </programme>
   </channel>
   <channel id="MTV 00s">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="MTV 00s">
       <title lang="es">Programa MTV 00s by Mendez</title>
+      <desc lang="es">Descripción del programa MTV 00s</desc>
     </programme>
   </channel>
   <channel id="MTV HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="MTV HD">
       <title lang="es">Programa MTV HD by Mendez</title>
+      <desc lang="es">Descripción del programa MTV HD</desc>
     </programme>
   </channel>
   <channel id="Nat Geo">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Nat Geo">
       <title lang="es">Programa Nat Geo by Mendez</title>
+      <desc lang="es">Descripción del programa Nat Geo</desc>
     </programme>
   </channel>
   <channel id="Nat Geo HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Nat Geo HD">
       <title lang="es">Programa Nat Geo HD by Mendez</title>
+      <desc lang="es">Descripción del programa Nat Geo HD</desc>
     </programme>
   </channel>
   <channel id="NICK HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="NICK HD">
       <title lang="es">Programa NICK HD by Mendez</title>
+      <desc lang="es">Descripción del programa NICK HD</desc>
     </programme>
   </channel>
   <channel id="NICK JR">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="NICK JR">
       <title lang="es">Programa NICK JR by Mendez</title>
+      <desc lang="es">Descripción del programa NICK JR</desc>
     </programme>
   </channel>
   <channel id="Nickelodeon">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Nickelodeon">
       <title lang="es">Programa Nickelodeon by Mendez</title>
+      <desc lang="es">Descripción del programa Nickelodeon</desc>
     </programme>
   </channel>
   <channel id="NTN 24 Horas">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="NTN 24 Horas">
       <title lang="es">Programa NTN 24 Horas by Mendez</title>
+      <desc lang="es">Descripción del programa NTN 24 Horas</desc>
     </programme>
   </channel>
   <channel id="NTV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="NTV">
       <title lang="es">Programa NTV by Mendez</title>
+      <desc lang="es">Descripción del programa NTV</desc>
     </programme>
   </channel>
   <channel id="NTV HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="NTV HD">
       <title lang="es">Programa NTV HD by Mendez</title>
+      <desc lang="es">Descripción del programa NTV HD</desc>
     </programme>
   </channel>
   <channel id="Nuestra Tele">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Nuestra Tele">
       <title lang="es">Programa Nuestra Tele by Mendez</title>
+      <desc lang="es">Descripción del programa Nuestra Tele</desc>
     </programme>
   </channel>
   <channel id="Oromar TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Oromar TV">
       <title lang="es">Programa Oromar TV by Mendez</title>
+      <desc lang="es">Descripción del programa Oromar TV</desc>
     </programme>
   </channel>
   <channel id="Panamericana">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Panamericana">
       <title lang="es">Programa Panamericana by Mendez</title>
+      <desc lang="es">Descripción del programa Panamericana</desc>
     </programme>
   </channel>
   <channel id="Paramount">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Paramount">
       <title lang="es">Programa Paramount by Mendez</title>
+      <desc lang="es">Descripción del programa Paramount</desc>
     </programme>
   </channel>
   <channel id="Paramount HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Paramount HD">
       <title lang="es">Programa Paramount HD by Mendez</title>
+      <desc lang="es">Descripción del programa Paramount HD</desc>
     </programme>
   </channel>
   <channel id="Pasiones HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Pasiones HD">
       <title lang="es">Programa Pasiones HD by Mendez</title>
+      <desc lang="es">Descripción del programa Pasiones HD</desc>
     </programme>
   </channel>
   <channel id="Peru Magico">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Peru Magico">
       <title lang="es">Programa Peru Magico by Mendez</title>
+      <desc lang="es">Descripción del programa Peru Magico</desc>
     </programme>
   </channel>
   <channel id="RAI">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="RAI">
       <title lang="es">Programa RAI by Mendez</title>
+      <desc lang="es">Descripción del programa RAI</desc>
     </programme>
   </channel>
   <channel id="RCN HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="RCN HD">
       <title lang="es">Programa RCN HD by Mendez</title>
+      <desc lang="es">Descripción del programa RCN HD</desc>
     </programme>
   </channel>
   <channel id="RCN Novelas">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="RCN Novelas">
       <title lang="es">Programa RCN Novelas by Mendez</title>
+      <desc lang="es">Descripción del programa RCN Novelas</desc>
     </programme>
   </channel>
   <channel id="Rec TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Rec TV">
       <title lang="es">Programa Rec TV by Mendez</title>
+      <desc lang="es">Descripción del programa Rec TV</desc>
     </programme>
   </channel>
   <channel id="RPP">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="RPP">
       <title lang="es">Programa RPP by Mendez</title>
+      <desc lang="es">Descripción del programa RPP</desc>
     </programme>
   </channel>
   <channel id="RTS">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="RTS">
       <title lang="es">Programa RTS by Mendez</title>
+      <desc lang="es">Descripción del programa RTS</desc>
     </programme>
   </channel>
   <channel id="RTU">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="RTU">
       <title lang="es">Programa RTU by Mendez</title>
+      <desc lang="es">Descripción del programa RTU</desc>
     </programme>
   </channel>
   <channel id="Senal Colombiana">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Senal Colombiana">
       <title lang="es">Programa Senal Colombiana by Mendez</title>
+      <desc lang="es">Descripción del programa Senal Colombiana</desc>
     </programme>
   </channel>
   <channel id="Senal Colombiana HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Senal Colombiana HD">
       <title lang="es">Programa Senal Colombiana HD by Mendez</title>
+      <desc lang="es">Descripción del programa Senal Colombiana HD</desc>
     </programme>
   </channel>
   <channel id="Sin Limites">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Sin Limites">
       <title lang="es">Programa Sin Limites by Mendez</title>
+      <desc lang="es">Descripción del programa Sin Limites</desc>
     </programme>
   </channel>
   <channel id="SNT">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="SNT">
       <title lang="es">Programa SNT by Mendez</title>
+      <desc lang="es">Descripción del programa SNT</desc>
     </programme>
   </channel>
   <channel id="Sony">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Sony">
       <title lang="es">Programa Sony by Mendez</title>
+      <desc lang="es">Descripción del programa Sony</desc>
     </programme>
   </channel>
   <channel id="Sony HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Sony HD">
       <title lang="es">Programa Sony HD by Mendez</title>
+      <desc lang="es">Descripción del programa Sony HD</desc>
     </programme>
   </channel>
   <channel id="Space">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Space">
       <title lang="es">Programa Space by Mendez</title>
+      <desc lang="es">Descripción del programa Space</desc>
     </programme>
   </channel>
   <channel id="Space HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Space HD">
       <title lang="es">Programa Space HD by Mendez</title>
+      <desc lang="es">Descripción del programa Space HD</desc>
     </programme>
   </channel>
   <channel id="Star Channel">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Star Channel">
       <title lang="es">Programa Star Channel by Mendez</title>
+      <desc lang="es">Descripción del programa Star Channel</desc>
     </programme>
   </channel>
   <channel id="STAR CHANNEL HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="STAR CHANNEL HD">
       <title lang="es">Programa STAR CHANNEL HD by Mendez</title>
+      <desc lang="es">Descripción del programa STAR CHANNEL HD</desc>
     </programme>
   </channel>
   <channel id="Star TVE HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Star TVE HD">
       <title lang="es">Programa Star TVE HD by Mendez</title>
+      <desc lang="es">Descripción del programa Star TVE HD</desc>
     </programme>
   </channel>
   <channel id="Stingray Concerts HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Stingray Concerts HD">
       <title lang="es">Programa Stingray Concerts HD by Mendez</title>
+      <desc lang="es">Descripción del programa Stingray Concerts HD</desc>
     </programme>
   </channel>
   <channel id="Studio Universal">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Studio Universal">
       <title lang="es">Programa Studio Universal by Mendez</title>
+      <desc lang="es">Descripción del programa Studio Universal</desc>
     </programme>
   </channel>
   <channel id="Studio Universal HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Studio Universal HD">
       <title lang="es">Programa Studio Universal HD by Mendez</title>
+      <desc lang="es">Descripción del programa Studio Universal HD</desc>
     </programme>
   </channel>
   <channel id="Sun Channel">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Sun Channel">
       <title lang="es">Programa Sun Channel by Mendez</title>
+      <desc lang="es">Descripción del programa Sun Channel</desc>
     </programme>
   </channel>
   <channel id="Sun Channel HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Sun Channel HD">
       <title lang="es">Programa Sun Channel HD by Mendez</title>
+      <desc lang="es">Descripción del programa Sun Channel HD</desc>
     </programme>
   </channel>
   <channel id="SYFY">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="SYFY">
       <title lang="es">Programa SYFY by Mendez</title>
+      <desc lang="es">Descripción del programa SYFY</desc>
     </programme>
   </channel>
   <channel id="TBS">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TBS">
       <title lang="es">Programa TBS by Mendez</title>
+      <desc lang="es">Descripción del programa TBS</desc>
     </programme>
   </channel>
   <channel id="TC Television">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TC Television">
       <title lang="es">Programa TC Television by Mendez</title>
+      <desc lang="es">Descripción del programa TC Television</desc>
     </programme>
   </channel>
   <channel id="TCM">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TCM">
       <title lang="es">Programa TCM by Mendez</title>
+      <desc lang="es">Descripción del programa TCM</desc>
     </programme>
   </channel>
   <channel id="Teen Nick">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Teen Nick">
       <title lang="es">Programa Teen Nick by Mendez</title>
+      <desc lang="es">Descripción del programa Teen Nick</desc>
     </programme>
   </channel>
   <channel id="Teleamazonas">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Teleamazonas">
       <title lang="es">Programa Teleamazonas by Mendez</title>
+      <desc lang="es">Descripción del programa Teleamazonas</desc>
     </programme>
   </channel>
   <channel id="Teleantioquia">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Teleantioquia">
       <title lang="es">Programa Teleantioquia by Mendez</title>
+      <desc lang="es">Descripción del programa Teleantioquia</desc>
     </programme>
   </channel>
   <channel id="Telecafe">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Telecafe">
       <title lang="es">Programa Telecafe by Mendez</title>
+      <desc lang="es">Descripción del programa Telecafe</desc>
     </programme>
   </channel>
   <channel id="Telecanal">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Telecanal">
       <title lang="es">Programa Telecanal by Mendez</title>
+      <desc lang="es">Descripción del programa Telecanal</desc>
     </programme>
   </channel>
   <channel id="telecaribe">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="telecaribe">
       <title lang="es">Programa telecaribe by Mendez</title>
+      <desc lang="es">Descripción del programa telecaribe</desc>
     </programme>
   </channel>
   <channel id="Telefe">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Telefe">
       <title lang="es">Programa Telefe by Mendez</title>
+      <desc lang="es">Descripción del programa Telefe</desc>
     </programme>
   </channel>
   <channel id="telefuturo">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="telefuturo">
       <title lang="es">Programa telefuturo by Mendez</title>
+      <desc lang="es">Descripción del programa telefuturo</desc>
     </programme>
   </channel>
   <channel id="Telehit HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Telehit HD">
       <title lang="es">Programa Telehit HD by Mendez</title>
+      <desc lang="es">Descripción del programa Telehit HD</desc>
     </programme>
   </channel>
   <channel id="Teleislas">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Teleislas">
       <title lang="es">Programa Teleislas by Mendez</title>
+      <desc lang="es">Descripción del programa Teleislas</desc>
     </programme>
   </channel>
   <channel id="Telemundo">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Telemundo">
       <title lang="es">Programa Telemundo by Mendez</title>
+      <desc lang="es">Descripción del programa Telemundo</desc>
     </programme>
   </channel>
   <channel id="Telenovelas">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Telenovelas">
       <title lang="es">Programa Telenovelas by Mendez</title>
+      <desc lang="es">Descripción del programa Telenovelas</desc>
     </programme>
   </channel>
   <channel id="Telepacifico">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Telepacifico">
       <title lang="es">Programa Telepacifico by Mendez</title>
+      <desc lang="es">Descripción del programa Telepacifico</desc>
     </programme>
   </channel>
   <channel id="Telesur">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Telesur">
       <title lang="es">Programa Telesur by Mendez</title>
+      <desc lang="es">Descripción del programa Telesur</desc>
     </programme>
   </channel>
   <channel id="teletrak">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="teletrak">
       <title lang="es">Programa teletrak by Mendez</title>
+      <desc lang="es">Descripción del programa teletrak</desc>
     </programme>
   </channel>
   <channel id="Televicentro">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Televicentro">
       <title lang="es">Programa Televicentro by Mendez</title>
+      <desc lang="es">Descripción del programa Televicentro</desc>
     </programme>
   </channel>
   <channel id="TLC">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TLC">
       <title lang="es">Programa TLC by Mendez</title>
+      <desc lang="es">Descripción del programa TLC</desc>
     </programme>
   </channel>
   <channel id="TLT">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TLT">
       <title lang="es">Programa TLT by Mendez</title>
+      <desc lang="es">Descripción del programa TLT</desc>
     </programme>
   </channel>
   <channel id="TNT">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TNT">
       <title lang="es">Programa TNT by Mendez</title>
+      <desc lang="es">Descripción del programa TNT</desc>
     </programme>
   </channel>
   <channel id="TNT HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TNT HD">
       <title lang="es">Programa TNT HD by Mendez</title>
+      <desc lang="es">Descripción del programa TNT HD</desc>
     </programme>
   </channel>
   <channel id="TNT Novelas HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TNT Novelas HD">
       <title lang="es">Programa TNT Novelas HD by Mendez</title>
+      <desc lang="es">Descripción del programa TNT Novelas HD</desc>
     </programme>
   </channel>
   <channel id="Tnt Series">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Tnt Series">
       <title lang="es">Programa Tnt Series by Mendez</title>
+      <desc lang="es">Descripción del programa Tnt Series</desc>
     </programme>
   </channel>
   <channel id="TNT Series HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TNT Series HD">
       <title lang="es">Programa TNT Series HD by Mendez</title>
+      <desc lang="es">Descripción del programa TNT Series HD</desc>
     </programme>
   </channel>
   <channel id="TNT Sports 2">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TNT Sports 2">
       <title lang="es">Programa TNT Sports 2 by Mendez</title>
+      <desc lang="es">Descripción del programa TNT Sports 2</desc>
     </programme>
   </channel>
   <channel id="TNT Sports 3">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TNT Sports 3">
       <title lang="es">Programa TNT Sports 3 by Mendez</title>
+      <desc lang="es">Descripción del programa TNT Sports 3</desc>
     </programme>
   </channel>
   <channel id="TNT SPORTS HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TNT SPORTS HD">
       <title lang="es">Programa TNT SPORTS HD by Mendez</title>
+      <desc lang="es">Descripción del programa TNT SPORTS HD</desc>
     </programme>
   </channel>
   <channel id="Tooncast">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Tooncast">
       <title lang="es">Programa Tooncast by Mendez</title>
+      <desc lang="es">Descripción del programa Tooncast</desc>
     </programme>
   </channel>
   <channel id="Tru TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Tru TV">
       <title lang="es">Programa Tru TV by Mendez</title>
+      <desc lang="es">Descripción del programa Tru TV</desc>
     </programme>
   </channel>
   <channel id="TRUTV HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TRUTV HD">
       <title lang="es">Programa TRUTV HD by Mendez</title>
+      <desc lang="es">Descripción del programa TRUTV HD</desc>
     </programme>
   </channel>
   <channel id="TV Diputados">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TV Diputados">
       <title lang="es">Programa TV Diputados by Mendez</title>
+      <desc lang="es">Descripción del programa TV Diputados</desc>
     </programme>
   </channel>
   <channel id="TV Peru">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TV Peru">
       <title lang="es">Programa TV Peru by Mendez</title>
+      <desc lang="es">Descripción del programa TV Peru</desc>
     </programme>
   </channel>
   <channel id="TV PERU 7.3">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TV PERU 7.3">
       <title lang="es">Programa TV PERU 7.3 by Mendez</title>
+      <desc lang="es">Descripción del programa TV PERU 7.3</desc>
     </programme>
   </channel>
   <channel id="TV Senado">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TV Senado">
       <title lang="es">Programa TV Senado by Mendez</title>
+      <desc lang="es">Descripción del programa TV Senado</desc>
     </programme>
   </channel>
   <channel id="TV+">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TV+">
       <title lang="es">Programa TV+ by Mendez</title>
+      <desc lang="es">Descripción del programa TV+</desc>
     </programme>
   </channel>
   <channel id="TV+ HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TV+ HD">
       <title lang="es">Programa TV+ HD by Mendez</title>
+      <desc lang="es">Descripción del programa TV+ HD</desc>
     </programme>
   </channel>
   <channel id="TVE">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TVE">
       <title lang="es">Programa TVE by Mendez</title>
+      <desc lang="es">Descripción del programa TVE</desc>
     </programme>
   </channel>
   <channel id="TVES">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TVES">
       <title lang="es">Programa TVES by Mendez</title>
+      <desc lang="es">Descripción del programa TVES</desc>
     </programme>
   </channel>
   <channel id="tvn">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="tvn">
       <title lang="es">Programa tvn by Mendez</title>
+      <desc lang="es">Descripción del programa tvn</desc>
     </programme>
   </channel>
   <channel id="TVN HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TVN HD">
       <title lang="es">Programa TVN HD by Mendez</title>
+      <desc lang="es">Descripción del programa TVN HD</desc>
     </programme>
   </channel>
   <channel id="TYC Sports">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TYC Sports">
       <title lang="es">Programa TYC Sports by Mendez</title>
+      <desc lang="es">Descripción del programa TYC Sports</desc>
     </programme>
   </channel>
   <channel id="TYC Sports HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="TYC Sports HD">
       <title lang="es">Programa TYC Sports HD by Mendez</title>
+      <desc lang="es">Descripción del programa TYC Sports HD</desc>
     </programme>
   </channel>
   <channel id="UCL">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="UCL">
       <title lang="es">Programa UCL by Mendez</title>
+      <desc lang="es">Descripción del programa UCL</desc>
     </programme>
   </channel>
   <channel id="Unicanal">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Unicanal">
       <title lang="es">Programa Unicanal by Mendez</title>
+      <desc lang="es">Descripción del programa Unicanal</desc>
     </programme>
   </channel>
   <channel id="Universal">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Universal">
       <title lang="es">Programa Universal by Mendez</title>
+      <desc lang="es">Descripción del programa Universal</desc>
     </programme>
   </channel>
   <channel id="UNIVERSAL CHANNEL HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="UNIVERSAL CHANNEL HD">
       <title lang="es">Programa UNIVERSAL CHANNEL HD by Mendez</title>
+      <desc lang="es">Descripción del programa UNIVERSAL CHANNEL HD</desc>
     </programme>
   </channel>
   <channel id="Universal Cinema SD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Universal Cinema SD">
       <title lang="es">Programa Universal Cinema SD by Mendez</title>
+      <desc lang="es">Descripción del programa Universal Cinema SD</desc>
     </programme>
   </channel>
   <channel id="Universal Comedy SD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Universal Comedy SD">
       <title lang="es">Programa Universal Comedy SD by Mendez</title>
+      <desc lang="es">Descripción del programa Universal Comedy SD</desc>
     </programme>
   </channel>
   <channel id="Universal Premiere SD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Universal Premiere SD">
       <title lang="es">Programa Universal Premiere SD by Mendez</title>
+      <desc lang="es">Descripción del programa Universal Premiere SD</desc>
     </programme>
   </channel>
   <channel id="Venevision">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Venevision">
       <title lang="es">Programa Venevision by Mendez</title>
+      <desc lang="es">Descripción del programa Venevision</desc>
     </programme>
   </channel>
   <channel id="VenevisionPlus">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="VenevisionPlus">
       <title lang="es">Programa VenevisionPlus by Mendez</title>
+      <desc lang="es">Descripción del programa VenevisionPlus</desc>
     </programme>
   </channel>
   <channel id="Venezolana de TV">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Venezolana de TV">
       <title lang="es">Programa Venezolana de TV by Mendez</title>
+      <desc lang="es">Descripción del programa Venezolana de TV</desc>
     </programme>
   </channel>
   <channel id="Via X Esports">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Via X Esports">
       <title lang="es">Programa Via X Esports by Mendez</title>
+      <desc lang="es">Descripción del programa Via X Esports</desc>
     </programme>
   </channel>
   <channel id="ViaX">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="ViaX">
       <title lang="es">Programa ViaX by Mendez</title>
+      <desc lang="es">Descripción del programa ViaX</desc>
     </programme>
   </channel>
   <channel id="Vive">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Vive">
       <title lang="es">Programa Vive by Mendez</title>
+      <desc lang="es">Descripción del programa Vive</desc>
     </programme>
   </channel>
   <channel id="Warner">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Warner">
       <title lang="es">Programa Warner by Mendez</title>
+      <desc lang="es">Descripción del programa Warner</desc>
     </programme>
   </channel>
   <channel id="Warner Channel HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Warner Channel HD">
       <title lang="es">Programa Warner Channel HD by Mendez</title>
+      <desc lang="es">Descripción del programa Warner Channel HD</desc>
     </programme>
   </channel>
   <channel id="Willax">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Willax">
       <title lang="es">Programa Willax by Mendez</title>
+      <desc lang="es">Descripción del programa Willax</desc>
     </programme>
   </channel>
   <channel id="Win">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Win">
       <title lang="es">Programa Win by Mendez</title>
+      <desc lang="es">Descripción del programa Win</desc>
     </programme>
   </channel>
   <channel id="Win Sports +">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Win Sports +">
       <title lang="es">Programa Win Sports + by Mendez</title>
+      <desc lang="es">Descripción del programa Win Sports +</desc>
     </programme>
   </channel>
   <channel id="Win Sports HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Win Sports HD">
       <title lang="es">Programa Win Sports HD by Mendez</title>
+      <desc lang="es">Descripción del programa Win Sports HD</desc>
     </programme>
   </channel>
   <channel id="Win Sports+">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Win Sports+">
       <title lang="es">Programa Win Sports+ by Mendez</title>
+      <desc lang="es">Descripción del programa Win Sports+</desc>
     </programme>
   </channel>
   <channel id="Win Sports+ HD">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Win Sports+ HD">
       <title lang="es">Programa Win Sports+ HD by Mendez</title>
+      <desc lang="es">Descripción del programa Win Sports+ HD</desc>
     </programme>
   </channel>
   <channel id="WOBI">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="WOBI">
       <title lang="es">Programa WOBI by Mendez</title>
+      <desc lang="es">Descripción del programa WOBI</desc>
     </programme>
   </channel>
   <channel id="Zona Latina">
     <display-name lang="en">TEMPLATE</display-name>
     <programme start="20240101000000 +0000" channel="Zona Latina">
       <title lang="es">Programa Zona Latina by Mendez</title>
+      <desc lang="es">Descripción del programa Zona Latina</desc>
     </programme>
   </channel>
 </tv>

@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-  <!-- Mensaje "by Mendez" para todos los programas -->
-  <programme>
+  <programme start="20240101000000 -0500" stop="20241231235959 -0500">
     <title lang="es">Programa by Mendez</title>
     <desc>Descripción del programa</desc>
-    <!-- Añadir más detalles del programa si es necesario -->
   </programme>
-
-  <!-- Añadir más programas según sea necesario -->
-
 </tv>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+  <!-- Mensaje "by Mendez" para todos los programas -->
+  <programme>
+    <title lang="es">Programa by Mendez</title>
+    <desc>Descripción del programa</desc>
+    <!-- Añadir más detalles del programa si es necesario -->
+  </programme>
+
+  <!-- Añadir más programas según sea necesario -->
+
+</tv>
